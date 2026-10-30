@@ -24,7 +24,10 @@ Analysis Process:
 - Building interactive cohort tables.
 - Calculating and visualizing monthly user retention rates.
 - Comparing retention patterns across acquisition channels and promotional segments.
-
+- 
+## Project Visualization
+### User Retention Cohort Table
+![User Retention Cohort Table](images/retention_cohort_table.png)
 
 Key Findings
 - Analyzed and compared user retention across two segments: Promo Users (acquired through promotional campaigns and paid advertising) and Organic Users.
