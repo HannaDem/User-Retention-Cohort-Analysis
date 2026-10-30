@@ -29,6 +29,12 @@ Analysis Process:
 ### User Retention Cohort Table
 ![User Retention Cohort Table](images/retention_cohort_table.png)
 
+### Promo Users
+![Promo Users Retention](images/retention_promo_users.png)
+
+### Organic Users
+![Organic Users Retention](images/retention_organic_users.png)
+
 Key Findings
 - Analyzed and compared user retention across two segments: Promo Users (acquired through promotional campaigns and paid advertising) and Organic Users.
 - Identified lower retention among promo-acquired users, suggesting that users acquired through promotional campaigns are less likely to remain active over time.
