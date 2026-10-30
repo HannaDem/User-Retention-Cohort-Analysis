@@ -7,7 +7,7 @@ The goal is to understand how user engagement changes over time, identify retent
 
 Business Objectives:
 - Identify monthly user cohorts based on their first activity.
-- Analyze user retention across different acquisition channels.
+- Analyze user retention across promotional and organic acquisition segments.
 - Compare retention patterns based on promotional status.
 - Calculate monthly user retention rates.
 - Visualize user retention trends using interactive cohort tables.
@@ -23,8 +23,8 @@ Analysis Process:
 - Exporting prepared data to Google Sheets.
 - Building interactive cohort tables.
 - Calculating and visualizing monthly user retention rates.
-- Comparing retention patterns across acquisition channels and promotional segments.
-- 
+- Comparing retention patterns across promotional and organic user segments.
+ 
 ## Project Visualization
 ### User Retention Cohort Table
 ![User Retention Cohort Table](images/retention_cohort_table.png)
@@ -35,7 +35,7 @@ Analysis Process:
 ### Organic Users
 ![Organic Users Retention](images/retention_organic_users.png)
 
-Key Findings
+## Key Findings.
 - Analyzed and compared user retention across two segments: Promo Users (acquired through promotional campaigns and paid advertising) and Organic Users.
 - Identified lower retention among promo-acquired users, suggesting that users acquired through promotional campaigns are less likely to remain active over time.
 - This finding may indicate opportunities to improve promotional campaign effectiveness and attract users with stronger long-term engagement.
