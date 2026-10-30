@@ -8,7 +8,7 @@ The goal is to understand how user engagement changes over time, identify retent
 Business Objectives:
 - Identify monthly user cohorts based on their first activity.
 - Analyze user retention across promotional and organic acquisition segments.
-- Compare retention patterns based on promotional status.
+- Compare retention patterns between promotional and organic users.
 - Calculate monthly user retention rates.
 - Visualize user retention trends using interactive cohort tables.
 
